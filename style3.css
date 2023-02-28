@@ -13,10 +13,10 @@ body {
 .media {
   background-position: center;
   background-size: cover;
-  height: 50%;
+  height: 100%;
   position: absolute;
   transition: all 0.3s ease;
-  width: 50%;
+  width: 100%;
 }
 figure {
   height: 370px;
